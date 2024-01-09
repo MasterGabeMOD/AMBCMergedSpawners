@@ -1,0 +1,11 @@
+# Set the merge radius for spawners
+merge-radius: 1
+
+# Set the delay for merged spawners (in ticks)
+merge-delay: 20
+
+# Set the duration (in seconds) for displaying spawner count
+count-display-duration: 5
+
+# Allow using mob eggs to change spawner type
+allow-mob-egg: true
